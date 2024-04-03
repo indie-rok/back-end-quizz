@@ -10,8 +10,7 @@ app.use(express.json());
 
 // In-memory "database"
 let leaderboard = [
-  { name: "Alice", score: 9 },
-  { name: "Bob", score: 7 },
+  { name: "Emmanuel", score: 2 },
   // You can pre-populate this array with more objects as desired.
 ];
 
